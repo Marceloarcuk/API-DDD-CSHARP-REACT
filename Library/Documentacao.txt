@@ -1,0 +1,36 @@
+
+
+Youtube
+
+API - .NET
+Parte 1 - https://www.youtube.com/watch?v=eBqV9Vc8zoo
+Parte 2 - https://www.youtube.com/watch?v=4WaWWE7N_FQ
+Parte 3 - https://www.youtube.com/watch?v=VsSVGVAxh0E
+Parte 4 - https://www.youtube.com/watch?v=bbRtXoS6VOw
+Parte 5 - https://www.youtube.com/watch?v=Iosew-agXX8
+Parte 6 - https://www.youtube.com/watch?v=ki2SMc9r_SU
+Parte 7 - https://www.youtube.com/watch?v=qcWTR6eVFXk
+Parte 8 - https://www.youtube.com/watch?v=wxUk5mVGL7Y
+
+FRONT-END REACT JS
+Parte 1 - https://www.youtube.com/watch?v=HuRMlVMUv_I
+Parte 2 - https://www.youtube.com/watch?v=YaUr76NIpbo
+Parte 3 - https://www.youtube.com/watch?v=txnfHsNOey8
+Parte 4 - https://www.youtube.com/watch?v=BMXka7YZH8A
+Parte 5 - https://www.youtube.com/watch?v=5N4ooNIQ8dE
+
+
+
+
+Add-Migration Inicial_canal -Context ContextBase
+Update-database -Context ContextBase
+
+
+NUGET
+
+WEBAPIs
+Microsoft.AspNetCore.Identity.UI
+Microsoft.AspNetCore.Authentication.JwtBearer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.EntityFrameworkCore.Design
+AUTOMapper

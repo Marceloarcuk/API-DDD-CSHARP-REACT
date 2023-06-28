@@ -1,0 +1,17 @@
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Intrastructure.deps.json
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Intrastructure.dll
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Intrastructure.pdb
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Domain.dll
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Entities.dll
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Domain.pdb
+D:\code\c#\API_DDD_2022\Library\Intrastructure\bin\Debug\net6.0\Entities.pdb
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.AssemblyReference.cache
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.AssemblyInfoInputs.cache
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.AssemblyInfo.cs
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.CoreCompileInputs.cache
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.CopyComplete
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.dll
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\refint\Intrastructure.dll
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\Intrastructure.pdb
+D:\code\c#\API_DDD_2022\Library\Intrastructure\obj\Debug\net6.0\ref\Intrastructure.dll

@@ -1,0 +1,15 @@
+D:\code\c#\API_DDD_2022\Library\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\code\c#\API_DDD_2022\Library\Domain\bin\Debug\net6.0\Domain.dll
+D:\code\c#\API_DDD_2022\Library\Domain\bin\Debug\net6.0\Domain.pdb
+D:\code\c#\API_DDD_2022\Library\Domain\bin\Debug\net6.0\Entities.dll
+D:\code\c#\API_DDD_2022\Library\Domain\bin\Debug\net6.0\Entities.pdb
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.dll
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\Domain.pdb
+D:\code\c#\API_DDD_2022\Library\Domain\obj\Debug\net6.0\ref\Domain.dll
